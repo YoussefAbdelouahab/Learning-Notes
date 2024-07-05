@@ -1,0 +1,2 @@
+WHOIS Lookup est un site, enfaite c'est une base de donnée publique en ligne, de la commmande [[Whois]], c'est a dire, que de la meme manière qu'on peut lancer la commande :
+`whois google.com`, on peut aller sur le site [WHOIS Lookup](https://who.is/whois/github.com) et taper google.com.

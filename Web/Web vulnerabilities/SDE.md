@@ -1,0 +1,1 @@
+Sensitive data exposure, it's when data sensitive data is left public, it can be on the web server or even on the request, if the request are not crypted it allow "man in the middle" attacks
